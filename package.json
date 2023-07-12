@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gh-fake-git-history": "^1.4.3"
+  }
+}
